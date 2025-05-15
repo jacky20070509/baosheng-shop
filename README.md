@@ -1,1 +1,16 @@
-[products.json](https://github.com/user-attachments/files/20232560/products.json)
+[
+  {
+    "id": 1,
+    "name": "溫和洗面乳",
+    "description": "適合所有膚質，深層清潔不緊繃",
+    "price": 199,
+    "image": "https://example.com/cleanser.jpg"
+  },
+  {
+    "id": 2,
+    "name": "蜂蜜檸檬飲",
+    "description": "天然蜂蜜搭配檸檬，清爽解渴",
+    "price": 55,
+    "image": "https://example.com/lemonade.jpg"
+  }
+]
